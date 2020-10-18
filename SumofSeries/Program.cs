@@ -16,8 +16,16 @@ namespace SumofSeries
                 {
                     bool result = int.TryParse(elem, out int number);
                     if (result)
-                            sum += number;
-                    else {
+                    {
+                        sum += number;
+                        if(sum > int.MaxValue || sum < int.MinValue)
+                        {
+                            Console.WriteLine("Integer boundary reached. Closing the application.");
+                            return;
+                        }
+                    }
+                    else 
+                    {
                         Console.WriteLine("Incorrect input {0}, please enter a valid value.", elem);
                         return;
                     }
