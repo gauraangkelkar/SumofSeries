@@ -18,7 +18,7 @@ namespace SumofSeries
                     if (result)
                             sum += number;
                     else {
-                        Console.WriteLine("Incorrect input value {0}, please enter a valid expression.", elem);
+                        Console.WriteLine("Incorrect input {0}, please enter a valid value.", elem);
                         return;
                     }
                 }
