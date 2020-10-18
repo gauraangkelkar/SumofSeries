@@ -1,0 +1,13 @@
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.exe
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.deps.json
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.runtimeconfig.json
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.runtimeconfig.dev.json
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.dll
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\bin\Debug\netcoreapp3.1\SumofSeries.pdb
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.csprojAssemblyReference.cache
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.AssemblyInfoInputs.cache
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.AssemblyInfo.cs
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.csproj.CoreCompileInputs.cache
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.dll
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.pdb
+C:\Humber College\DOT NET 012 - C# and Windows Applications\Assignments\SumofSeries\SumofSeries\obj\Debug\netcoreapp3.1\SumofSeries.genruntimeconfig.cache
